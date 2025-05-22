@@ -130,7 +130,7 @@ export const surveyQuestions: SurveyQuestion[] = [
   },
  {
     id: "q12",
-    name: "",
+    name: "material_accessibility_issues",
     label:
       "12. Какие сложности вы испытываете при доступе к материалам курса? (например, проблемы с интернетом, недостаток времени, сложность в понимании материала)",
     type: "textarea",
